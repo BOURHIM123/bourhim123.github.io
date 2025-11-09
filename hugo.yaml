@@ -30,7 +30,9 @@ params:
 
   showPostNav: true
   showCodeCopyButtons: true
-
+  module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
   socialIcons:
     - name: "github"
       url: "https://github.com/votreusername"
