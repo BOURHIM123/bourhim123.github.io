@@ -6,7 +6,7 @@ theme: 'PaperMod'
 params:
   profileMode:
     enabled: true
-    title: 'Votre Nom'
+    title: 'Fatima Bourhim'
     subtitle: 'Étudiante en Master Ingénierie Informatique et Sécurité des Systèmes'
     imageUrl: '/images/img1.jpg'
     imageWidth: 180
