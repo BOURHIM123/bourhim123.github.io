@@ -1,0 +1,55 @@
+baseURL: 'https://bourhim123.github.io/'
+languageCode: 'fr-fr'
+title: 'Votre Nom'
+theme: 'PaperMod'
+
+params:
+  profileMode:
+    enabled: true
+    title: 'Votre Nom'
+    subtitle: 'Étudiante en Master Ingénierie Informatique et Sécurité des Systèmes'
+    imageUrl: '/images/img1.jpg'
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: 'Photo de profil'
+
+   
+
+  homeInfoParams:
+    Title: ""
+    Content: |
+      **Master en Ingénierie Informatique et Sécurité des Systèmes** à l'Université Paris Cité  
+      **Stage en Cybersécurité** chez Entreprise ABC  
+      **Licence en Informatique** à l'Université Sorbonne  
+      **Passionnée** par la sécurité des systèmes et l'innovation technologique
+
+  defaultTheme: "auto"
+  showShareButtons: false
+  showReadingTime: false
+  showBreadCrumbs: false
+
+  showPostNav: true
+  showCodeCopyButtons: true
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/votreusername"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/votrenom"
+    - name: "email"
+      url: "mailto:votre.email@domain.com"
+
+menu:
+  main:
+    - name: 'Accueil'
+      url: '/'
+      weight: 1
+    - name: 'À propos'
+      url: '/about/'
+      weight: 2
+    - name: 'Projets'
+      url: '/projects/'
+      weight: 3
+    - name: 'Contact'
+      url: '/contact/'
+      weight: 4
