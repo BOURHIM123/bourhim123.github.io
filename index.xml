@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Votre Nom</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bourhim123.github.io/</link>
     <description>Recent content on Votre Nom</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bourhim123.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audit de Sécurité d&#39;Application Web</title>
-      <link>http://localhost:1313/projects/projet1/</link>
+      <link>https://bourhim123.github.io/projects/projet1/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projet1/</guid>
+      <guid>https://bourhim123.github.io/projects/projet1/</guid>
       <description>Analyse complète des vulnérabilités d&amp;#39;une plateforme e-commerce</description>
     </item>
     <item>
       <title>Développement d&#39;une Plateforme Sécurisée</title>
-      <link>http://localhost:1313/projects/projet2/</link>
+      <link>https://bourhim123.github.io/projects/projet2/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projet2/</guid>
+      <guid>https://bourhim123.github.io/projects/projet2/</guid>
       <description>Création d&amp;#39;une application web avec mesures de sécurité avancées</description>
     </item>
     <item>
       <title>Analyse de Vulnérabilités Réseau</title>
-      <link>http://localhost:1313/projects/projet3/</link>
+      <link>https://bourhim123.github.io/projects/projet3/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projet3/</guid>
+      <guid>https://bourhim123.github.io/projects/projet3/</guid>
       <description>Scan et analyse des vulnérabilités sur un réseau d&amp;#39;entreprise</description>
     </item>
     <item>
       <title>À propos</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://bourhim123.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://bourhim123.github.io/about/</guid>
       <description>&lt;h2 id=&#34;-parcours-académique&#34;&gt;🎓 Parcours Académique&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Master Ingénierie Informatique et Sécurité des Systèmes&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Université Paris Cité - 2023-2025&lt;/em&gt;&lt;br&gt;
@@ -68,9 +68,9 @@ Mention Très Bien&lt;/p&gt;
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://bourhim123.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://bourhim123.github.io/contact/</guid>
       <description>&lt;h2 id=&#34;-contactez-moi&#34;&gt;📞 Contactez-moi&lt;/h2&gt;
 &lt;p&gt;N&amp;rsquo;hésitez pas à me contacter pour discuter d&amp;rsquo;opportunités ou de collaborations !&lt;/p&gt;
 &lt;h3 id=&#34;-informations-de-contact&#34;&gt;📧 Informations de Contact&lt;/h3&gt;
